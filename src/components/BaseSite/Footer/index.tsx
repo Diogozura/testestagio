@@ -51,7 +51,7 @@ const footer = [
         categoria: 'Projeto',
         item1: {
             nome: 'Github',
-            link: 'https://github.com/Diogozura/'
+            link: 'https://github.com/Diogozura/testestagio#site-desafio-populis'
         },
         item2: {
             nome: 'Figma',
