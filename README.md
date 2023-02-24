@@ -6,7 +6,10 @@
   <a href="#-site" style='color:#FFF'>Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 </p>
  
-
+<h2>
+<a href="https://www.figma.com/community/file/1210979595536394898" style='color:#FFF'>Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+<a href="3" style='color:#FFF'>Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+<h2/>
 
 ## 🛰️Tecnologias
   <a href="https://nextjs.org" style='color:#FFF'>Next.js</a>
@@ -25,7 +28,7 @@ Projeto teste para um estagio , onde tem alguns desafios a serem realizados com 
 <br/>
 
 ## 🖼️ Site
-![pagina inicial do Easy imobiliário game](/public/comojogar/home_page.png)
+![pagina inicial site desafio populis](/public/site.png)
 
 <br/>
 
