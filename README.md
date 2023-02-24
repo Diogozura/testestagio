@@ -1,4 +1,4 @@
-# Easy imobiliário game
+# Site desafio Populis
 
 <p align="center">
   <a href="#-tecnologias" style='color:#FFF'>Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
